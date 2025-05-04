@@ -10,7 +10,7 @@ This repository contains my verified professional certifications in the fields o
 - **Issued by**: Fingertips  
 - **Date**: December 18, 2024  
 - **Certification Code**: PALFT2418121386  
-- **Certificate**: [View PDF](https://github.com/Kavit-shadow/Certificates/blob/main/Data_Science_Pro_Certificate.pdf)
+- **Certificate**: [View PDF](https://github.com/Kavit-shadow/Certificates/blob/7defacc102725e4db280606c841975092f0eb2cb/Data%20Science%20Pro%20Program%20(certificate).pdf)
 
 ---
 
