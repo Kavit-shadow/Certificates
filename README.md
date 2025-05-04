@@ -7,10 +7,10 @@ This repository contains my verified professional certifications in the fields o
 ## 🧠 Featured Certifications
 
 ### 🔹 Data Science Pro Program
-- **Issued by**: Fingertips Academy  
+- **Issued by**: Fingertips  
 - **Date**: December 18, 2024  
 - **Certification Code**: PALFT2418121386  
-- **Certificate**: [View PDF](https://github.com/Kavit-shadow/Certificates/raw/main/Data_Science_Pro_Certificate.pdf)
+- **Certificate**: [View PDF](https://github.com/Kavit-shadow/Certificates/blob/main/Data_Science_Pro_Certificate.pdf)
 
 ---
 
