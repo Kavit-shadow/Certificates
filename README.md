@@ -2,7 +2,9 @@
 
 This repository contains my verified professional certifications in the fields of **Data Science**, **Information Technology**, and related disciplines. Each certificate demonstrates my commitment to continuous learning and technical skill development.
 
+
 ---
+
 
 ## 🧠 Featured Certifications
 
@@ -12,7 +14,9 @@ This repository contains my verified professional certifications in the fields o
 - **Certification Code**: PALFT2418121386  
 - **Certificate**: [View PDF](https://github.com/Kavit-shadow/Certificates/blob/7defacc102725e4db280606c841975092f0eb2cb/Data%20Science%20Pro%20Program%20(certificate).pdf)
 
+
 ---
+
 
 ## 📌 About Me
 
@@ -20,7 +24,9 @@ I am currently pursuing an **Integrated Master's in Computer Science and IT (IMS
 
 Feel free to explore my profile for more repositories related to data and tech.
 
+
 ---
+
 
 ## 🔗 Connect with Me
 
